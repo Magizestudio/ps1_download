@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    background-color: #171717;
+}
+
+.main_frame {
+    width: 800px;
+    height: 900px;
+    background-color: #c7c7c7;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.logo_img {
+    width: 800px;
+    height: 400px;
+}
+
+.download_btn {
+    width: 100px;
+    height: 40px;
+    background-color: transparent;
+    border-color: black;
+    color: white;
+    cursor: pointer;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+.download_btn:hover {
+    background-color: black;
+}
+
+.contact_us_btn {
+    width: 100px;
+    height: 40px;
+    background-color: transparent;
+    border-color: black;
+    color: white;
+    cursor: pointer;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+.contact_us_btn:hover {
+    background-color: black;
+}
